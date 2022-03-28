@@ -1,0 +1,13 @@
+E:\HH\ITRI\code\新盛力\UITest3\UITest3\bin\Debug\UITest3.exe.config
+E:\HH\ITRI\code\新盛力\UITest3\UITest3\obj\Debug\UITest3.exe
+E:\HH\ITRI\code\新盛力\UITest3\UITest3\obj\Debug\UITest3.pdb
+E:\HH\ITRI\code\新盛力\UITest3\UITest3\bin\Debug\UITest3.exe
+E:\HH\ITRI\code\新盛力\UITest3\UITest3\bin\Debug\UITest3.pdb
+E:\HH\ITRI\code\新盛力\UITest3\UITest3\obj\Debug\UITest3.csprojResolveAssemblyReference.cache
+E:\HH\ITRI\code\新盛力\UITest3\UITest3\obj\Debug\UITest3.FormAccount.resources
+E:\HH\ITRI\code\新盛力\UITest3\UITest3\obj\Debug\UITest3.MainForm.resources
+E:\HH\ITRI\code\新盛力\UITest3\UITest3\obj\Debug\UITest3.Properties.Resources.resources
+E:\HH\ITRI\code\新盛力\UITest3\UITest3\obj\Debug\UITest3.csproj.GenerateResource.Cache
+E:\HH\ITRI\code\新盛力\UITest3\UITest3\obj\Debug\UITest3.WeldSystem.resources
+D:\ITRI\code\UITest3\UITest3\bin\Debug\UITest3.exe.config
+D:\ITRI\code\UITest3\UITest3\obj\Debug\UITest3.exe
